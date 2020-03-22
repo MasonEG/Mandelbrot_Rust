@@ -1,6 +1,6 @@
 [package]
-name = "untitled1"
-version = "0.1.0"
+name = "Mandelbrot_Rust"
+version = "0.1.1"
 authors = ["Mason Gil <masonegil@gmail.com>"]
 edition = "2018"
 
